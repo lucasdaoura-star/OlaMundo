@@ -1,3 +1,3 @@
 # Olá, Mundo!
 Primeiro repositrório versionado
-Repositório criado durante uma aula *ao vivo*!
+Repositório criado durante uma aula **ao vivo**!
